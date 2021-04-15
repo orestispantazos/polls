@@ -17,3 +17,17 @@ M
 polling-app-client/nginx.conf,3\a\3aa6dbf1d68a37c360a7697cdadc71c91f39de3d
 9
 	Readme.md,0\c\0c1945d7443c2e154bd3e421c0d438bd4086d8c3
+M
+polling-app-client/Dockerfile,3\d\3d1cc98045eba1b7356c4b48f3853acb0d3f0756
+L
+polling-app-client/README.md,3\d\3db51d8544590f358ad92d490c5999107b431fee
+V
+&polling-app-client/config-overrides.js,1\c\1c4308869c478e9b141256a9182e2b32eeb8e3cd
+Y
+)polling-app-client/src/constants/index.js,a\3\a3a580f9b22a5f14e61c48b5ef876799494916c7
+^
+.polling-app-server/src/main/resources/data.sql,a\e\ae40cb0124715142276e0e635f495a7f38b37095
+\
+,polling-app-client/src/user/signup/Signup.js,2\e\2e51e63ebca66d8e2578befb32381a3b0acb3a6e
+Z
+*polling-app-client/src/common/AppHeader.js,0\c\0c98d6eb764dc0a55017320e01d545afe971b049
